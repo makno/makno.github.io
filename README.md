@@ -1,2 +1,2 @@
 # makno.github.io
-My personal GitHub pages
+My personal GitHub page
