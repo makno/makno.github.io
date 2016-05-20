@@ -2,3 +2,22 @@
 	MaKno's custom styles
 */
 
+html, body {
+	margin: 5px;
+}
+
+#maknoworld {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: linear-gradient(#c5d8ae, #76b82a);
+}
+
+.header_image {
+	float: left;
+}
+
+.header_text {
+	margin-left: 65px;
+}
